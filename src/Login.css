@@ -1,0 +1,10 @@
+.centerL {
+  font-size: 20px;  /* taille police*/
+  font-weight: bold; /* gras*/
+}
+.retour{
+  display: inline;
+}
+.bordure{
+  margin-bottom: 15%;
+}
